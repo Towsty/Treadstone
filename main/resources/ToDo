@@ -1,7 +1,13 @@
 Todo:
 
-    - Implement te proxies
-    - Setup Laptop git pull
+    - Bottle and Drink Types
+        - Chocolate Milk
+    - Drink Qualities
+        - Several portions
+        - Different Ingredients
+            - Different Effects
+                - IE Flight, Speed, Jump Boost
+    
     
     Stretch Goal
         - Work through implementing Vend GUI
