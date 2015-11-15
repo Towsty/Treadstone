@@ -1,8 +1,8 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "treadstone",
+  "name": "Treadstone",
+  "description": "Project Treadstone is about Treadstone...that's all you need to know.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
