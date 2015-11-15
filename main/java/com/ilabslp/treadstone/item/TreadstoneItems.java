@@ -1,7 +1,8 @@
-package item;
+package com.ilabslp.treadstone.item;
+
+import com.ilabslp.treadstone.lib.References;
 
 import cpw.mods.fml.common.registry.GameRegistry;
-import lib.References;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 
