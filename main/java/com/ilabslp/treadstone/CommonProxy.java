@@ -12,6 +12,7 @@ public class CommonProxy {
 	    public void preInit(FMLPreInitializationEvent e) {
 	    	TreadstoneItems.init();
 	    	TreadstoneBlocks.init();
+	    	TreadstoneCrafting.init();
 	    }
 
 	    public void init(FMLInitializationEvent e) {
